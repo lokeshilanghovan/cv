@@ -1,0 +1,152 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Amatic SC', cursive;
+  color: #336d88;
+  padding-top: 50px;
+}
+p{
+  font-family: 'Satisfy', cursive;
+}
+div {
+
+  background-color: #8bcdcd;
+
+}
+
+.bottomcloud{
+  position: absolute;
+top: 180px;
+  left: 200px;
+}
+
+.topcloud{
+  position: absolute;
+top:60px;
+  right: 150px;
+}
+
+.me{
+  height: 150px;
+  width: 150px;
+padding-top: 50px;
+}
+
+
+.stock{
+  width: 25%;
+  float: right;
+  margin-right: 20px;
+
+}
+
+
+h2{
+  font-family: 'Poiret One', cursive;
+  color: #336d88;
+  font-weight: normal;
+
+}
+
+h3{
+  font-family: 'Josefin Slab', serif;
+  color: #336d88;
+}
+
+.heading{
+  height: 100px;
+  width: 700px;
+  margin: auto;
+  padding-bottom: 20px;
+
+}
+
+.web{
+color: #336d88;
+font-size: 40px;
+font-weight:normal;
+line-height: 2;
+}
+
+.skill-row{
+margin: 50px auto 50px auto;
+width: 50%;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.photography{
+  width:25%;
+  float: left;
+  margin-right: 20px;
+
+
+}
+.intro{
+  width: 25%;
+  margin: auto;
+}
+
+hr{
+  border: dotted;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc48d);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc48d);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc48d);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc48d);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc48d);
+  text-decoration: none;
+}
+
+.contact-message{
+  width: 25%;
+  margin: 100px auto;
+}
+
+.bottom-container{
+  background-color: #8bcdcd;
+  padding: 50px;
+}
+
+.copyright{
+  padding: 50px;
+  color: #336d88;
+  font-size: 0.75rem;
+}
+
+a{
+  color: #336d88;
+  font-family: 'Josefin Slab', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #30e3cb;
+}
